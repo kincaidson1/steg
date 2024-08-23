@@ -167,5 +167,3 @@ def main():
                     decoded_data = decode_aud_data(audio_file)
                     st.success(f"The encoded data hidden in the audio was: {decoded_data}")
 
-if __name__ == '__main__':
-    main()
