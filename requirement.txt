@@ -1,6 +1,5 @@
 streamlit 
 numpy 
-cv2
 wave
 PIL
 pydub 
